@@ -1,2 +1,3 @@
-# Graphics Computation CU 
-Pratic Exercises and Projects
+# FEUP - Graphics Computation
+- Pratical Exercises
+- Final Project
